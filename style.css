@@ -20,6 +20,8 @@ hr {
 	border-color: #f05f44;
 	border-width:3px;
 	max-width: 65px;
+	cursor: pointer;
+
 }
 .buffer {
 	height:10rem;
