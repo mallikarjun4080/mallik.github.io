@@ -10,19 +10,19 @@ html {
   background-size: cover;
 
 }
+hr {
+	border-color: #f05f44;
+	border-width:3px;
+	max-width: 65px;
+
+}
 
 h1 {
  font-size: 3rem;
  color: #e2dbdb;
 }
 
-hr {
-	border-color: #f05f44;
-	border-width:3px;
-	max-width: 65px;
-	cursor: pointer;
 
-}
 .buffer {
 	height:10rem;
 }
@@ -40,6 +40,7 @@ hr {
 	background-color: #ee4b08;
 	border-color:#ee4b08;
 	border-width:4px;
+	cursor: pointer;
 }
 
 .btn-xl {
